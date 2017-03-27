@@ -9,7 +9,7 @@ namespace ConsoleApp1
     class Program
     {
         static void Main(string[] args)
-        {
+        {  //This is a test for branch addition
         }
     }
 }
